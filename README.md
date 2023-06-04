@@ -1,4 +1,4 @@
-# day_3
+# Todo App with jsonplaceholder api
 
 A new Flutter project.
 
